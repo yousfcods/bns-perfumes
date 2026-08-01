@@ -1,0 +1,6 @@
+{
+  "name": "BNS",
+  "description": "A world-class BNS perfume e-commerce experience with a premium black and gold aesthetic, elegant filtering, product details, interactive cart, and responsive cinematic visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
